@@ -1,6 +1,6 @@
 
 **Emitrr Task (Exploding Kitten)** <br />
-**Candidate name: Dipanshu Tiwari** <br />
+**Candidate name: Siddarth Sangavi** <br />
 **Below are the functionalities that I was able to implement successfully in my task.**
  <br />
 Exploding Kitten, an online single-player card game built using React for the frontend, Redux for state management, and Golang for the backend. This game features four different card types: Cat 😼, Defuse 🙅‍♂️, Shuffle 🔀, and Exploding Kitten 💣.
